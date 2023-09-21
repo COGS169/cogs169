@@ -1,0 +1,32 @@
+# Welcome section
+quarter: Fall 2023
+building: CSB 003
+timings: TU & TH 9:30-10:50AM
+piazza_link: TBD
+piazza_entry_code: TBD
+classquestion_code: TBD
+gradescope_link: TBD
+gradescope_entry_code: TBD
+pre_course_survey: TBD
+cogsadvising: cogsadvising@ucsd.edu
+
+instructor:
+  name: Shannon Ellis
+  email: sellis@ucsd.edu
+  type: Instructor
+  office_hours:
+    - day: Th
+      time: 11:00 AM-12:00 PM
+      location: CSB 243
+
+teaching_assistant:
+  name: Homero Esmeraldo
+  email: hesmeraldo@ucsd.edu
+  type: TA
+  office_hours:
+    - day: TBD
+      time: TBD
+      location: TBD
+      # zoom_link: https://ucsd.zoom.us/j/92034058774
+      # zoom_pw:
+
