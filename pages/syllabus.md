@@ -35,7 +35,7 @@ NOTE: This is a draft syllabus. It will be finalized week 1 of the course.
 
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| Reading Reflections (Complete 15/16)          |               30 |      0 (4pt each)  |
+| Reading Reflections (Complete 15/16)          |               30 |     60 (4pt each)  |
 | Final Project Proposal (Proposal + Meeting)   |               12 |               24   |
 | Final Project (Report + Presentation)         |               23 |               46   |
 | 1 Midterm                                     |               15 |               30   |
