@@ -28,6 +28,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # domain: ucsd-cogs9.github.io
 url: https://cogs169.github.io
 baseurl: /cogs169
+favicon_ico: "favicon.ico"
+
+
 
 ###### Build settings
 # remote_theme:
