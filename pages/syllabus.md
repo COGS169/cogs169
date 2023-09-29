@@ -81,6 +81,7 @@ Our goal is to make lectures and office hours worthwhile to attend (e.g. lots of
 ### Readings & Reflections
 This course will be reading heavy. There will be reading assigned from the textbook, online resources, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by midnight before each class weeks 1-9, you will submit a short form reflecting on the day's assigned readings. While reading will be time-consuming, completing your reflection will not be, so long as you've completed and thought critically about the assigned reading. Thoughtful responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Students will be required to use their UCSD google accounts to access/complete their reading reflections.
 
+Reading reflections can be submitted up to a week late for half credit. 
 
 
 ### Final Project
@@ -177,3 +178,7 @@ If you don't have the most essential resources required to thrive as a student, 
 If you need emergency food, finances, and/or academic and social support you can also contact [UCSD Mutual Aid](https://mutualaiducsd.wordpress.com). They provide mentoring and aid that comes from volunteers among your peers.  If you don't need that kind of support, consider joining them in helping your fellow classmates who do.
 
 If you need counseling or if you are in a mental crisis you can contact [CAPS](https://caps.ucsd.edu). They provide psychiatric services, workshops, and counseling; they also operate a 24/7 crisis hotline at 858.534.3755. 
+
+### Anonymous Feedback
+
+Feedback is great - if comfortable, please feel free to share with me in person or via email. However, if you would like to provide that feedback anonymously, please use this [anonymous Google Form](https://goo.gl/forms/2nXnDNbgYuS1OsGF2)

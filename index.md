@@ -48,22 +48,24 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
 {% assign prev_week_no = offset_week %}
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
-        <col style="width: 15%;">
-        <col style="width: 20%;">
-        <col style="width: 25%; border: none">
+        <col style="width: 15%; border: none">
+        <col style="width: 15%; border: none">
         <col style="width: 20%; border: none">
+        <col style="width: 15%; border: none">
         <col style="width: 20%; border: none">
+        <col style="width: 15%; border: none">
     </colspan>
     <thead>
         <tr class="header">
-            <th colspan="5" style="font-size-adjust:0.75"> Week {{ offset_week }} </th>
+            <th colspan="5" style="font-size-adjust:0.70"> Week {{ offset_week }} </th>
         </tr>
         <tr class="header">
-            <th style="text-align: center; font-size-adjust:0.75"> Date </th>
-            <th style="text-align: center; font-size-adjust:0.75"> Lecture </th>
-            <th style="text-align: center; font-size-adjust:0.75"> Reading(s) </th>
-            <th style="text-align: center; font-size-adjust:0.75"> Optional Reading(s)</th>
-            <th style="text-align: center; font-size-adjust:0.75"> Assignments </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Date </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Lecture </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Reading(s) </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Main Points </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Optional Reading(s)</th>
+            <th style="text-align: center; font-size-adjust:0.70"> Assignments </th>
         </tr>
     </thead>
     <tbody>
@@ -78,22 +80,24 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
 </table>
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
-        <col style="width: 15%;">
-        <col style="width: 20%;">
-        <col style="width: 25%; border: none">
+        <col style="width: 15%; border: none">
+        <col style="width: 15%; border: none">
         <col style="width: 20%; border: none">
+        <col style="width: 15%; border: none">
         <col style="width: 20%; border: none">
+        <col style="width: 15%; border: none">
     </colspan>
     <thead>
         <tr class="header">
             <th colspan="5" style="font-size-adjust:0.75"> Week {{ week_no }} </th>
          </tr>
         <tr class="header">
-            <th style="text-align: center; font-size-adjust:0.75"> Date </th>
-            <th style="text-align: center; font-size-adjust:0.75"> Lecture </th>
-            <th style="text-align: center; font-size-adjust:0.75"> Reading(s) </th>
-            <th style="text-align: center; font-size-adjust:0.75"> Optional Reading(s)</th>
-            <th style="text-align: center; font-size-adjust:0.75"> Assignments </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Date </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Lecture </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Reading(s) </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Main Points </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Optional Reading(s)</th>
+            <th style="text-align: center; font-size-adjust:0.70"> Assignments </th>
         </tr>
     </thead>
     <tbody>
@@ -103,6 +107,7 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
             <td style="text-align: center"> {{ row.date | date: "%a, %b %d" }} </td>
             <td style="padding-left: 4%"> {% if row.slides %} <a href="{{ row.slides }}"> {{ row.title }} </a> {% else %} {{ row.title }} {% endif %} </td>
             <td style="text-align: center"> {{ row.reading }} </td>
+            <td style="text-align: center"> <a href="{{ row.mp_link }}"> {{ row.main_points }} </a> </td>
             <td style="text-align: center"> {{ row.opt }} </td>
             <td style="text-align: center"> <a href="{{ row.assign_link }}"> {{ row.assignment }} </a> </td>
         </tr>

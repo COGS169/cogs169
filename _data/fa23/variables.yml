@@ -18,10 +18,6 @@ instructor:
     - day: Wed
       time: 11:00 AM-12:00 PM
       location: Zoom (by appt; see Canvas)
-  name: Shannon Ellis
-  email: sellis@ucsd.edu
-  type: Instructor
-  office_hours:
     - day: Th
       time: 11:00 AM-12:00 PM
       location: CSB 243
@@ -31,9 +27,9 @@ teaching_assistant:
   email: hesmeraldo@ucsd.edu
   type: TA
   office_hours:
-    - day: TBD
-      time: TBD
-      location: TBD
+    - day: Tues
+      time: 11:00 AM-12:00 PM
+      location: CSB 229
       # zoom_link: https://ucsd.zoom.us/j/92034058774
       # zoom_pw:
 
