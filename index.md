@@ -49,9 +49,9 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
         <col style="width: 15%; border: none">
-        <col style="width: 15%; border: none">
         <col style="width: 20%; border: none">
-        <col style="width: 15%; border: none">
+        <col style="width: 20%; border: none">
+        <col style="width: 10%; border: none">
         <col style="width: 20%; border: none">
         <col style="width: 15%; border: none">
     </colspan>
@@ -65,7 +65,7 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
             <th style="text-align: center; font-size-adjust:0.70"> Reading(s) </th>
             <th style="text-align: center; font-size-adjust:0.70"> Main Points </th>
             <th style="text-align: center; font-size-adjust:0.70"> Optional Reading(s)</th>
-            <th style="text-align: center; font-size-adjust:0.70"> Assignments </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Assignment </th>
         </tr>
     </thead>
     <tbody>
@@ -81,9 +81,9 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
         <col style="width: 15%; border: none">
-        <col style="width: 15%; border: none">
         <col style="width: 20%; border: none">
-        <col style="width: 15%; border: none">
+        <col style="width: 20%; border: none">
+        <col style="width: 10%; border: none">
         <col style="width: 20%; border: none">
         <col style="width: 15%; border: none">
     </colspan>
@@ -97,7 +97,7 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
             <th style="text-align: center; font-size-adjust:0.70"> Reading(s) </th>
             <th style="text-align: center; font-size-adjust:0.70"> Main Points </th>
             <th style="text-align: center; font-size-adjust:0.70"> Optional Reading(s)</th>
-            <th style="text-align: center; font-size-adjust:0.70"> Assignments </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Assignment </th>
         </tr>
     </thead>
     <tbody>
