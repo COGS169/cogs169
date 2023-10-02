@@ -57,7 +57,7 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
     </colspan>
     <thead>
         <tr class="header">
-            <th colspan="5" style="font-size-adjust:0.70"> Week {{ offset_week }} </th>
+            <th colspan="6" style="font-size-adjust:0.70"> Week {{ offset_week }} </th>
         </tr>
         <tr class="header">
             <th style="text-align: center; font-size-adjust:0.70"> Date </th>
@@ -89,7 +89,7 @@ This is the first time Prof Ellis is teaching the course, so staff will be helpi
     </colspan>
     <thead>
         <tr class="header">
-            <th colspan="5" style="font-size-adjust:0.75"> Week {{ week_no }} </th>
+            <th colspan="6" style="font-size-adjust:0.70"> Week {{ week_no }} </th>
          </tr>
         <tr class="header">
             <th style="text-align: center; font-size-adjust:0.70"> Date </th>

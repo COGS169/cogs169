@@ -14,8 +14,6 @@ permalink: /syllabus/
 {:toc}
 {: .fs-2 }
 
-NOTE: This is a draft syllabus. It will be finalized week 1 of the course. 
-
 ## Course Materials
 - Textbook: How Genes Influence Behavior (2e)
 - Readings: Can all be accessed from this website
@@ -93,7 +91,7 @@ Once your group of 4-5 students has formed (process to be discussed in class), y
 
 #### Proposal Meeting
 
-During class time of week 8, each group will meet with an instructional staff member for a 10 minute meeting (virtual is an option) to discuss their project proposal and plans going forward. Students will receive feedback during this session and are encouraged to bring questions.
+During class time of week 8, each group will meet with an instructional staff member for a 20 minute meeting (virtual is an option) to discuss their project proposal and plans going forward. Students will receive feedback during this session and are encouraged to bring questions.
 
 #### Report
 
