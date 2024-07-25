@@ -81,7 +81,7 @@ That said, we have found that students who come to lecture and are engaged fully
 
 ### Readings & Reflection Quizzes
 
-This course will be reading-heavy. There will be reading assigned from online resources, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by class time before each class, you will take a short quiz on the day's assigned readings. Quizzes will typically have a few multiple choice or True/False questions, along with short-answer questions. While reading will be time-consuming, completing your quiz will not be, so long as you've completed and thought critically about the assigned reading. Short-answer responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Reflection quiz completion will be untimed. 
+This course will be reading-heavy. There will be reading assigned from online resources, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by class time before each class, you will take a short quiz on the day's assigned readings. Quizzes will typically have a few multiple choice or True/False questions, along with short-answer questions. While reading will be time-consuming, completing your quiz will not be, so long as you've completed and thought critically about the assigned reading. Short-answer responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Reflection quiz completion will be untimed. Particularly thoguhtful/insightful responses on short-answer responses will have the possibility to earn extra credit.
 
 Reading Reflection quizzes will be completed on Gradescope and can be submitted up to a week late for half credit. 
 
@@ -148,12 +148,12 @@ Cheating and plagiarism have been and will be strongly penalized. If, for whatev
 
 #### Policy on using Artificial Intelligence programming assistance
 
-I believe that using large language models (LLMs) or other kinds of AIs can be a great tool for students, when used to help support a student's learning. I also believe that relying on AI assistance as your first or only step to understanding course material will likely limit your understanding of course concepts. Note that LLMs are most helpful in learning when *you* determine the questions to ask it and interpret the answer, NOT when you copy+paste questions from quizzes in directly and then copy+paste the answer it spits out. 
+I believe that using large language models (LLMs) or other kinds of AI can be a great tool for students when used to help support a student's learning. I also believe that relying on AI assistance as your first or only step to understanding course material will likely limit your understanding of course concepts. Note that LLMs are most helpful in learning when *you* determine the questions to ask it and interpret the answer, NOT when you copy+paste questions from quizzes in directly and then copy+paste the answer it spits out. 
 
 
 My advice: 
 
-- **If you're asking questions about general course concepts to get definitions or brief explanations about words/terminology** with which you're unfamiliar, that's great! Of course, LLMs do sometimes get stuff wrong, but for this course, it's typically right with these sorts of things.
+- **If you're asking questions about general course concepts to get definitions or brief explanations about words/terminology** with which you're unfamiliar, that's great! Ask away! Of course, LLMs do sometimes get stuff wrong, but for this course, it's typically right with these sorts of things.
 - **If you struggle to read the literature in this course**, *always* try to read the assigned reading on your own first. Think about what's not making sense. Then, go to ChatGPT (or other LLM) to ask for a summary. Read and *think* about the summary. Then, go back and read the primary literature again *after reading the summary from ChatGPT* to see if you understand the assigned reading better at that point (and to help determine if ChatGPT was right!). 
 - **If you're struggling to write**, always try to draft yourself first. You can ask LLMs to reword something or simplify for you, but it shouldn't write any text for you from scratch. This will help ensure your ideas are what end up in the submission...and honestly, your writing is probably better than what you'll get from an LLM in this course.
 - **If you're brainstorming**, always think on your own first and then ask ChatGPT to expand upon your ideas. You don't want to limit your thinking by going to an LLM first.
