@@ -39,7 +39,7 @@ We're really excited to be teaching you all about genetics and what we know abou
 {: .fs-3 }
 
 {: .note .fs-2 }
-This is the first time Prof Ellis is teaching the course, so staff will be helping to try to keep enrollment reasonable. As such, unless many students drop the course, there will not be much enrollment off of the waitlist. That said, Prof does not have access to the waitlist or the ability to directly enroll anyone into the class, so please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
+This course is meant to be a smaller-enrollment upper-division elective where students can get to know one another and can get detailed feedback on their work, so staff will be helping to try to keep enrollment reasonable. As such, unless many students drop the course, there will not be much enrollment off of the waitlist. Also, Prof does not have access to the waitlist or the ability to directly enroll anyone into the class, so please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
 
 ## Course Calendar
 
