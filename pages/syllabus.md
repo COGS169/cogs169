@@ -17,8 +17,9 @@ permalink: /syllabus/
 ## Course Materials
 - Textbook: How Genes Influence Behavior (2e)
 - Readings: Can all be accessed from this website
-- Piazza will be used for general Q&A
-- Gradescope will be used for project submissions and taking exams
+- Ed will be used for general Q&A
+- Gradescope will be used for quizzes, project submissions, & reviewing exam grading
+
 
 ## Course Objectives
 - Explain the central dogma of genetics and how genetic variation and epigenetics plays a role throughout
@@ -33,11 +34,11 @@ permalink: /syllabus/
 
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| Reading Reflections (Complete 15/16)          |               30 |     60 (4pt each)  |
-| Final Project Proposal (Proposal + Meeting)   |               12 |               24   |
-| Final Project (Report + Presentation)         |               23 |               46   |
-| 1 Midterm                                     |               15 |               30   |
-| 1 Final Exam                                  |               20 |               40   |
+| Pre-course survey (#finaid)                   |               1  |     2              |
+| 18 Reading Reflection Quizzes                 |            31.5  |     63 (3.5pts each) |
+| Final Project                                 |              25  |               50   |
+| Midterm                                       |            17.5  |               35   |
+| Final Exam                                    |              25  |               50   |
 
 ### Final Grades
 
@@ -74,58 +75,54 @@ The regrade policy is here to protect students from serious issues in grading, n
 - We will get back to you within 48 hours after regrades close with our final decision.
 
 ### Lecture Attendance
-Our goal is to make lectures and office hours worthwhile to attend (e.g. lots of in-class discussion). However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast). That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!) and hope that you'll attend lecture. 
+Our goal is to make lectures and office hours worthwhile to attend (e.g. lots of in-class discussion). However, lecture attendance is not required. All lectures will be podcast. 
 
-### Readings & Reflections
-This course will be reading heavy. There will be reading assigned from the textbook, online resources, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by midnight before each class weeks 1-9, you will submit a short form reflecting on the day's assigned readings. While reading will be time-consuming, completing your reflection will not be, so long as you've completed and thought critically about the assigned reading. Thoughtful responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Students will be required to use their UCSD google accounts to access/complete their reading reflections.
+That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!) and hope that you'll attend lecture. To incentivize attendance, we will occasionally do pop quizzes in lecture. While we encourage you to do your best on these, completion of any pop quiz will be used to replace a reading reflection quiz grade with full credit. (So, if you forget to do a reading reflection and get a zero or get a low score on one, if you then attend lecture on a day with a pop quiz, that zero/low score will be replaced with full credit.) These will also give you practice for the in-class exams (without the pressure).
 
-Reading reflections can be submitted up to a week late for half credit. 
+### Readings & Reflection Quizzes
 
+This course will be reading-heavy. There will be reading assigned from online resources, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by class time before each class, you will take a short quiz on the day's assigned readings. Quizzes will typically have a few multiple choice or True/False questions, along with short-answer questions. While reading will be time-consuming, completing your quiz will not be, so long as you've completed and thought critically about the assigned reading. Short-answer responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Reflection quiz completion will be untimed. 
+
+Reading Reflection quizzes will be completed on Gradescope and can be submitted up to a week late for half credit. 
 
 ### Final Project
+
+There are a few options for the final project: 1) 3-5 page paper completed individually, 2) 10 min podcast episode or YouTube-style video completed in a group of 2-4; 3) A series of ~4 TikTok-style videos completed in a group of 2-4 (total time of video series: ~10 min); 4) An 8-10 page group paper completed in a group of 3-4. Students will determine which option they want to pursue.
 
 
 #### Proposal
 
-Once your group of 4-5 students has formed (process to be discussed in class), you will decide on a topic (either a behavior or a model organism) and begin to search the academic literature for papers related to the topic of that behavior/organism and genetics. Your behavior/model organism can be one that we discuss in class, but you are not limited to these. Your proposal will include 1) your topic 2) 4-5 primary references *not assigned to be read in class* that you'll likely use in your final report (groups of 4 must have at least 4; groups of 5 must have at least 5) and 3) a one paragraph, brief summary of each reference.
+Once you have decided on your project option, you (and possibly your group) will decide on a topic (a behavior not covered in class) and begin to search the academic literature for papers related to the topic and genetics. Your proposal will include: 1) your behavior 2) at least 3 primary references *not assigned to be read in class* that you'll likely use in your final project 5) and 3) a one paragraph, brief summary of each reference.
 
 #### Proposal Meeting
 
-During class time of week 8, each group will meet with an instructional staff member for a 20 minute meeting (virtual is an option) to discuss their project proposal and plans going forward. Students will receive feedback during this session and are encouraged to bring questions.
+During week 8, each person/group will meet with an instructional staff member for a 10 minute meeting (virtual is an option) to discuss their project proposal and plans going forward. Students will receive feedback during this session and are encouraged to bring questions.
 
-#### Report
+#### Final Deliverable
 
-Each group will turn in an 8-10 page report (double-spaced; 1 in margins) taking a deep dive into either: 1) a model organism or 2) a behavior and its relationship to behavior genetics.
-
-#### Presentation
-
-Each group will also prepare an 8-10 minute presentation on their topic. Each group member must take part in and "appear" (speak) in the presentation. Groups will submit their recorded presentation via Canvas. Groups will have the option to present in class during the final week of class for extra credit (and will not be required to record their presentation).
-
+For each project, students will turn in either a report (double-spaced; 1 in margins) or video(s)/recording taking a deep dive into a behavior and its relationship to genetics. More details will be discussed in class.
 
 #### Submissions
 
-- For the proposal and final report, one submission through Gradescope per group
-- One PDF submission per group (ensure all your names and PIDs are on the PDF and that each group member is added to the group on Gradescope)
-- Your team may resubmit as many times as you like before the deadline
-- Late submissions:
-  - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-  - No late assignments accepted after 48 hours.
+- You may resubmit as many times as you like before the deadline
+- Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
+- No late assignments accepted after 48 hours.
 
+Research papers: 
+- For the proposal and final report, submissions will occur on Gradescope
+- For group submissions, submit a single PDF per group and ensure each group member is added to the submission on Gradescope
 
+Podcast/Videos: 
+- Proposal submission will occur on Gradescope (One PDF submission per group; ensure each group member is added on Gradescope)
+- Final videos will be submitted on Canvas (either file or URL to recording(s))
 
 ### Exams
-The midterm and final exam are an opportunity for me to test how all of you are learning the course material. The best way to study for the exam is to carefully review the readings and your lecture notes, think about the main topics in the lectures, and then determine the details that support each of those topics. 
 
-- Available for at least 24 hours on Gradescope
-- You have 2 continuous hours to finish once started
-- One attempt
-- Open notes and open Google/ChatGPT/etc., but you must work alone
-- Taken and submitted through Gradescope
+The midterm and final exam are an opportunity for us to determine how all of you are learning the course material. The best way to study for the exam is to carefully review the readings and your lecture notes (think about the main topics in the lectures and then determine the details that support each of those topics), look over the study guide, and review past readings and quizzes.
+
+Exams will be in-class and closed-book. The midterm will be taken during lecture time and the final exam during the scheduled final exam time. 
 
 No late exams are permitted, except for extenuating circumstances. Please reach out to staff as early as possible if you know something will prevent you from taking the exam on time.
-
-{: .important }
-The exam is an open note exam, open-Internet (Google, ChatGPT, etc. are all OK) to be taken at the comfort of your own home. Once you begin an exam, however, you must finish it in one sitting.
 
 
 ## Other Good Stuff
@@ -148,6 +145,23 @@ You are encouraged to (and at times will have to) work together and help one ano
 We anticipate you all doing well in this course; however, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (i.) asking questions in/after class, (ii.) attending office hours, and/or (iii.) reaching out to course staff.
 
 Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, this website or Gradescope is down, or something else prohibits you from being able to turn something in on time, immediately contact course staff via email (attach your assignment if possible) or else it will be graded as late.
+
+#### Policy on using Artificial Intelligence programming assistance
+
+I believe that using large language models (LLMs) or other kinds of AIs can be a great tool for students, when used to help support a student's learning. I also believe that relying on AI assistance as your first or only step to understanding course material will likely limit your understanding of course concepts. Note that LLMs are most helpful in learning when *you* determine the questions to ask it and interpret the answer, NOT when you copy+paste questions from quizzes in directly and then copy+paste the answer it spits out. 
+
+
+My advice: 
+
+- **If you're asking questions about general course concepts to get definitions or brief explanations about words/terminology** with which you're unfamiliar, that's great! Of course, LLMs do sometimes get stuff wrong, but for this course, it's typically right with these sorts of things.
+- **If you struggle to read the literature in this course**, *always* try to read the assigned reading on your own first. Think about what's not making sense. Then, go to ChatGPT (or other LLM) to ask for a summary. Read and *think* about the summary. Then, go back and read the primary literature again *after reading the summary from ChatGPT* to see if you understand the assigned reading better at that point (and to help determine if ChatGPT was right!). 
+- **If you're struggling to write**, always try to draft yourself first. You can ask LLMs to reword something or simplify for you, but it shouldn't write any text for you from scratch. This will help ensure your ideas are what end up in the submission...and honestly, your writing is probably better than what you'll get from an LLM in this course.
+- **If you're brainstorming**, always think on your own first and then ask ChatGPT to expand upon your ideas. You don't want to limit your thinking by going to an LLM first.
+
+Generally: always consider whether you learned something more/better from your interaction with LLM (the goal!) or if all you did was get an answer you don't understand (NOT the goal).
+
+LLM use is permitted across the course, except on the midterm and final (which are in-class and closed book).
+
 
 ### Disability Access
 Students requesting accommodations due to a disability must provide a current Authorization for Accommodation (AFA) letter. These letters are issued by the Office for Students with Disabilities (OSD), which is located in University Center 202 behind Center Hall. These will be sent to the instructor once submitted, and you will receive a response confirming receipt and discussing the accomodations as necessary. However, if you are struggling to get necessary accommodations or want to further discuss your accommodations, please feel free to reach out directly.
