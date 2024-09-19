@@ -35,9 +35,9 @@ permalink: /syllabus/
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
 | Pre-course survey (#finaid)                   |               1  |     2              |
-| 18 Reading Reflection Quizzes                 |            31.5  |     63 (3.5pts each) |
-| Final Project                                 |              25  |               50   |
-| Midterm                                       |            17.5  |               35   |
+| 17 Reading Reflection Quizzes                 |            34  |     68 (3pts each) |
+| Midterm                                       |            20    |               40   |
+| Final Project                                 |              20  |               40   |
 | Final Exam                                    |              25  |               50   |
 
 ### Final Grades
@@ -81,7 +81,7 @@ That said, we have found that students who come to lecture and are engaged fully
 
 ### Readings & Reflection Quizzes
 
-This course will be reading-heavy. There will be reading assigned from online resources, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by class time before each class, you will take a short quiz on the day's assigned readings. Quizzes will typically have a few multiple choice or True/False questions, along with short-answer questions. While reading will be time-consuming, completing your quiz will not be, so long as you've completed and thought critically about the assigned reading. Short-answer responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Reflection quiz completion will be untimed. Particularly thoguhtful/insightful responses on short-answer responses will have the possibility to earn extra credit.
+This course will be reading-heavy. There will be reading assigned from the textbook, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by class time before each class, you will take a short quiz on the day's assigned readings and a few questions from material after the last lecture. Quizzes will typically have a few multiple choice or True/False questions, along with a couple short-answer questions. While reading will be time-consuming, completing your quiz will not be, so long as you've understood the core concepts from lecture and completed and thought critically about the assigned reading. Short-answer responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Reflection quiz completion will be untimed. Particularly thoughtful/insightful responses on short-answer responses will have the possibility to earn extra credit.
 
 Reading Reflection quizzes will be completed on Gradescope and can be submitted up to a week late for half credit. 
 
@@ -92,7 +92,7 @@ There are a few options for the final project: 1) 3-5 page paper completed indiv
 
 #### Proposal
 
-Once you have decided on your project option, you (and possibly your group) will decide on a topic (a behavior not covered in class) and begin to search the academic literature for papers related to the topic and genetics. Your proposal will include: 1) your behavior 2) at least 3 primary references *not assigned to be read in class* that you'll likely use in your final project 5) and 3) a one paragraph, brief summary of each reference.
+Once you have decided on your project option, you (and possibly your group) will decide on a topic (a behavior not covered in class) and begin to search the academic literature for papers related to the topic and genetics. Your proposal will include: 1) your behavior 2) at least 3 primary references *not assigned to be read in class* that you'll likely use in your final project, and 3) a one paragraph, brief summary of each reference.
 
 #### Proposal Meeting
 
@@ -116,14 +116,25 @@ Podcast/Videos:
 - Proposal submission will occur on Gradescope (One PDF submission per group; ensure each group member is added on Gradescope)
 - Final videos will be submitted on Canvas (either file or URL to recording(s))
 
+#### Presentations (*optional for extra credit*)
+
+Individuals and groups will have the option to present their final projects in class on the last day of class. More details will be discussed, but those who present will earn extra credit on their final project. If there is more interest than we have time for presentations, students/groups will be chosen at random to present. 
+
 ### Exams
 
 The midterm and final exam are an opportunity for us to determine how all of you are learning the course material. The best way to study for the exam is to carefully review the readings and your lecture notes (think about the main topics in the lectures and then determine the details that support each of those topics), look over the study guide, and review past readings and quizzes.
 
-Exams will be in-class and closed-book. The midterm will be taken during lecture time and the final exam during the scheduled final exam time. 
-
 No late exams are permitted, except for extenuating circumstances. Please reach out to staff as early as possible if you know something will prevent you from taking the exam on time.
 
+#### Exams in the TTC-CBTF
+
+Exams will be closed-book and taken through the Triton Testing Center's Computer-Based Testing Facility (TTC-CBTF) in **AP&M B349**. For exams, students will have to sign up for an exam slot. For the midterm, students will be able to sign up for slots during week 6 (11/4 – 11/9). For the final, all students will have to sign up for a slot during finals week on 12/7. **Please note that this final exam date differs from what you see in WebReg.** 
+
+You must schedule your tests at least three days in advance, but it is recommended that you do so as soon as possible. To schedule, visit [prairietest.com](https://us.prairietest.com/) and login with your UC San Diego credentials. Reservations can be changed until 10 minutes before the test begins. More information about testing policies and procedures can be found on the [TTC's website](https://tritontesting.ucsd.edu/). You may also email tritontesting@ucsd.edu for assistance.
+
+Please note that **if you plan to use OSD-approved accommodations for your test**, you will take it at the TTC's Pepper Canyon Hall location. You must schedule your test three days in advance through the [RegisterBlast system](https://www2.registerblast.com/ucsd/Exam/List).
+
+You will be encouraged (via extra credit) to visit the TTC-CBTF during week 1 to test out the system and familiarize yourself with the exam location.
 
 ## Other Good Stuff
 
