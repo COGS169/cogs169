@@ -17,8 +17,7 @@ permalink: /syllabus/
 ## Course Materials
 - Textbook: How Genes Influence Behavior (2e)
 - Readings: Can all be accessed from this website
-- Ed will be used for general Q&A
-- Gradescope will be used for quizzes, project submissions, & reviewing exam grading
+- PrairieLearn will be used for quizzes, exams, and project submissions
 
 
 ## Course Objectives
@@ -35,7 +34,7 @@ permalink: /syllabus/
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
 | Pre-course survey (#finaid)                   |               1  |     2              |
-| 17 Reading Reflection Quizzes                 |            34  |     68 (3pts each) |
+| 17 Reading Reflection Quizzes                 |            34  |     68 (4pts each) |
 | Midterm                                       |            20    |               40   |
 | Final Project                                 |              20  |               40   |
 | Final Exam                                    |              25  |               50   |
