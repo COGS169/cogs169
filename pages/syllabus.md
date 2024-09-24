@@ -62,27 +62,27 @@ Your letter grade will be determined using the following grading scale:
 Given the amount of extra credit offered throughout the quarter, grades are not rounded up.
 
 ### Grades
-Grades are released on Gradescope a week after the submission date and sometimes sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
+Grades are released on Canvas a week after the submission date and sometimes sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
 
 ### Regrade Policy
 The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about or plead for an extra point. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from *just* arguing for points (without merit).
 
 **If you think a grading error has occurred please follow these steps:**
 - You have 72 hours to request a regrade
-- Initiate the regrade through Gradescope (if it is a group project, confer w/ your team first and submit one regrade after your team comes to a consensus)
+- Initiate the regrade through our Q&A platform (if it is a group project, confer w/ your team first and submit one regrade after your team comes to a consensus)
 - Provide evidence for why your answer is correct and merits a regrade (i.e. a specific reference to something said in a lecture, the readings, or office hours)
 - We will get back to you within 48 hours after regrades close with our final decision.
 
 ### Lecture Attendance
 Our goal is to make lectures and office hours worthwhile to attend (e.g. lots of in-class discussion). However, lecture attendance is not required. All lectures will be podcast. 
 
-That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!) and hope that you'll attend lecture. To incentivize attendance, we will occasionally do pop quizzes in lecture. While we encourage you to do your best on these, completion of any pop quiz will be used to replace a reading reflection quiz grade with full credit. (So, if you forget to do a reading reflection and get a zero or get a low score on one, if you then attend lecture on a day with a pop quiz, that zero/low score will be replaced with full credit.) These will also give you practice for the in-class exams (without the pressure).
+That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!) and hope that you'll attend lecture. To incentivize attendance, we will occasionally do pop quizzes in lecture (using Kahoot!). While we encourage you to do your best on these, *completion* of any pop quiz will be used to replace a reading reflection quiz grade with full credit. (So, if you forget to do a reading reflection and get a zero or get a low score on one, if you then attend lecture on a day with a pop quiz, that zero/low score will be replaced with full credit...regardless of whether you get the questions on the quiz correct.) These will also give you practice for the in-class exams (without the pressure).
 
 ### Readings & Reflection Quizzes
 
 This course will be reading-heavy. There will be reading assigned from the textbook, primary academic research, review papers, and scientific magazines. To help keep you from falling behind, by class time before each class, you will take a short quiz on the day's assigned readings and a few questions from material after the last lecture. Quizzes will typically have a few multiple choice or True/False questions, along with a couple short-answer questions. While reading will be time-consuming, completing your quiz will not be, so long as you've understood the core concepts from lecture and completed and thought critically about the assigned reading. Short-answer responses that indicate students completed the readings while thinking critically (even if they contain mistakes/misunderstandings/uncertainties) will receive full credit. Reflection quiz completion will be untimed. Particularly thoughtful/insightful responses on short-answer responses will have the possibility to earn extra credit.
 
-Reading Reflection quizzes will be completed on Gradescope and can be submitted up to a week late for half credit. 
+Reading Reflection quizzes will be completed through PrairieLearn and can be submitted up to a week late for half credit. 
 
 ### Final Project
 
@@ -106,14 +106,6 @@ For each project, students will turn in either a report (double-spaced; 1 in mar
 - You may resubmit as many times as you like before the deadline
 - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
 - No late assignments accepted after 48 hours.
-
-Research papers: 
-- For the proposal and final report, submissions will occur on Gradescope
-- For group submissions, submit a single PDF per group and ensure each group member is added to the submission on Gradescope
-
-Podcast/Videos: 
-- Proposal submission will occur on Gradescope (One PDF submission per group; ensure each group member is added on Gradescope)
-- Final videos will be submitted on Canvas (either file or URL to recording(s))
 
 #### Presentations (*optional for extra credit*)
 
@@ -154,7 +146,7 @@ You are encouraged to (and at times will have to) work together and help one ano
 
 We anticipate you all doing well in this course; however, if you are feeling lost or overwhelmed, that’s ok! Should that occur, we recommend: (i.) asking questions in/after class, (ii.) attending office hours, and/or (iii.) reaching out to course staff.
 
-Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, this website or Gradescope is down, or something else prohibits you from being able to turn something in on time, immediately contact course staff via email (attach your assignment if possible) or else it will be graded as late.
+Cheating and plagiarism have been and will be strongly penalized. If, for whatever reason, this website or PrairieLearn/PrairieTest is down, or something else prohibits you from being able to turn something in on time, immediately contact course staff via email (attach your assignment if possible) or else it will be graded as late.
 
 #### Policy on using Artificial Intelligence programming assistance
 
