@@ -76,6 +76,8 @@ The regrade policy is here to protect students from serious issues in grading, n
 ### Lecture Attendance
 Our goal is to make lectures and office hours worthwhile to attend (e.g. lots of in-class discussion). However, lecture attendance is not required. All lectures will be podcast. 
 
+#### Pop "Quizzes"
+
 That said, we have found that students who come to lecture and are engaged fully learn the most (which is our goal!) and hope that you'll attend lecture. To incentivize attendance, we will occasionally do pop quizzes in lecture (using Kahoot!). While we encourage you to do your best on these, *completion* of any pop quiz will be used to replace a reading reflection quiz grade with full credit. (So, if you forget to do a reading reflection and get a zero or get a low score on one, if you then attend lecture on a day with a pop quiz, that zero/low score will be replaced with full credit...regardless of whether you get the questions on the quiz correct.) These will also give you practice for the in-class exams (without the pressure).
 
 ### Readings & Reflection Quizzes
@@ -162,26 +164,20 @@ My advice:
 
 Generally: always consider whether you learned something more/better from your interaction with LLM (the goal!) or if all you did was get an answer you don't understand (NOT the goal).
 
-LLM use is permitted across the course, except on the midterm and final (which are in-class and closed book).
+LLM use is permitted across the course, except on the midterm and final (which are and closed book).
 
 
 ### Disability Access
 Students requesting accommodations due to a disability must provide a current Authorization for Accommodation (AFA) letter. These letters are issued by the Office for Students with Disabilities (OSD), which is located in University Center 202 behind Center Hall. These will be sent to the instructor once submitted, and you will receive a response confirming receipt and discussing the accomodations as necessary. However, if you are struggling to get necessary accommodations or want to further discuss your accommodations, please feel free to reach out directly.
 
-Contacting the OSD can help you further:
-858.534.4382 (phone)
-[osd@ucsd.edu](osd@ucsd.edu) (email)
-[http://disabilities.ucsd.edu](http://disabilities.ucsd.edu)
-
+Contacting the OSD can help you further:  
+858.534.4382 (phone)  
+[osd@ucsd.edu](osd@ucsd.edu) (email)  
+[http://disabilities.ucsd.edu](http://disabilities.ucsd.edu)  
+ 
 ### Transfer Students
 
-The Triton Transfer Hub is available to meet transfer students’ academic, social, and personal needs. Services include 1:1 involvement and academic success support with professional staff, peer coaching, professional and academic workshops, transfer meetups, and more. Within the Triton Transfer Hub you also have access to reservable group & individual study spaces as well snacks and supplies. Take time to meet with a peer coach and learn a little more about the UCSD culture.
-
-Triton Transfer Hub
-Transferstudents.ucsd.edu
-tritontransfers@ucsd.edu
-858-246-4997
-Pepper Canyon Hall, Room 261
+The [Triton Transfer Hub](https://transferstudents.ucsd.edu/transfer-hub/index.html) is available to meet transfer students’ academic, social, and personal needs. Services include 1:1 involvement and academic success support with professional staff, [peer coaching](https://transferstudents.ucsd.edu/peer-coaching/index.html), professional and academic workshops, transfer meetups, and more. Within the Triton Transfer Hub you also have access to reservable group & individual study spaces as well snacks and supplies. Take time to meet with a peer coach and learn a little more about the UCSD culture. There are also [specific research opportunities](https://transferstudents.ucsd.edu/get-involved/ur-for-transfers/index.html) targeted at transfer students.
 
 ### Difficult Life Situations
 
