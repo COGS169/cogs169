@@ -67,7 +67,7 @@ exclude:
 aux_links:
   "Template Repository": "https://github.com/COGS169/cogs169"
   "UCSD Podcast": "https://podcast.ucsd.edu/"
-  "Gradescope": "https://www.gradescope.com/"
+  "PrairieLearn": "https://us.prairielearn.com/pl/course/9753"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
