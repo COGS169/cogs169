@@ -1,11 +1,13 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+
 .DS_Store
 misc
 dev-docs/
 class-demos/
 
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-/vendor
 *.numbers
