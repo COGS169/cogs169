@@ -49,11 +49,11 @@ This course is meant to be a smaller-enrollment upper-division elective where st
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
         <col style="width: 15%; border: none">
-        <col style="width: 20%; border: none">
-        <col style="width: 20%; border: none">
-        <col style="width: 10%; border: none">
-        <col style="width: 20%; border: none">
-        <col style="width: 15%; border: none">
+        <col style="width: 18%; border: none">
+        <col style="width: 17%; border: none">
+        <col style="width: 12%; border: none">
+        <col style="width: 18%; border: none">
+        <col style="width: 17%; border: none">
     </colspan>
     <thead>
         <tr class="header">
@@ -65,7 +65,7 @@ This course is meant to be a smaller-enrollment upper-division elective where st
             <th style="text-align: center; font-size-adjust:0.70"> Reading(s) </th>
             <th style="text-align: center; font-size-adjust:0.70"> Main Points </th>
             <th style="text-align: center; font-size-adjust:0.70"> Optional Reading(s)</th>
-            <th style="text-align: center; font-size-adjust:0.70"> Assignment </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Due </th>
         </tr>
     </thead>
     <tbody>
@@ -81,11 +81,11 @@ This course is meant to be a smaller-enrollment upper-division elective where st
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
         <col style="width: 15%; border: none">
-        <col style="width: 20%; border: none">
-        <col style="width: 20%; border: none">
-        <col style="width: 10%; border: none">
-        <col style="width: 20%; border: none">
-        <col style="width: 15%; border: none">
+        <col style="width: 18%; border: none">
+        <col style="width: 17%; border: none">
+        <col style="width: 12%; border: none">
+        <col style="width: 18%; border: none">
+        <col style="width: 17%; border: none">
     </colspan>
     <thead>
         <tr class="header">
@@ -97,7 +97,7 @@ This course is meant to be a smaller-enrollment upper-division elective where st
             <th style="text-align: center; font-size-adjust:0.70"> Reading(s) </th>
             <th style="text-align: center; font-size-adjust:0.70"> Main Points </th>
             <th style="text-align: center; font-size-adjust:0.70"> Optional Reading(s)</th>
-            <th style="text-align: center; font-size-adjust:0.70"> Assignment </th>
+            <th style="text-align: center; font-size-adjust:0.70"> Due </th>
         </tr>
     </thead>
     <tbody>
